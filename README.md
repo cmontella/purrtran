@@ -22,6 +22,8 @@ Descending from a long line of [Tomagatchis](https://en.wikipedia.org/wiki/Tamag
 
 Hex is your AC coding assistant, always [^1] at the ready to enhance your coding experience and optimize your flow, taking your programming abilities to the 10x level. Hex can learn your coding style, predict your needs, and even write code for you when you are not looking. This makes Hex the ultimate coding companion for any PURRTRAN programmer.
 
+Hex is actively used [^2] by thousands of PURRTRAN developers worldwide at top companies like Google, Microsoft, and NASA to help them write better code, faster.
+
 ### Caring For Hex
 
 When you first meet Hex, he is a kitten not knowing much about you or the program you are trying to build. But as an AC, Hex will grow and learn how you work, what your goals are, and he will reward you by making you more efficient, productive, and creative. But only if you are attentive to his needs.
@@ -29,7 +31,7 @@ When you first meet Hex, he is a kitten not knowing much about you or the progra
 Hex has three basic needs:
 
 - **Food** - You have to feed Hex or he will die. You don't want to kill a kitten, do you?
-- **Cleanliness** - Like a real cat, Hex will leave "presents" for you, and you must clean them up or he will become displeased with you [^2].
+- **Cleanliness** - Like a real cat, Hex will leave "presents" for you, and you must clean them up or he will become displeased with you [^3].
 - **Love** - Hex loves you, more than you know. You have to love him back by showing him affection and playing with him. Hex will let you know when he is bored by interrupting your work with a note in your terminal:
 
 ```
@@ -43,7 +45,7 @@ To meet Hex's needs, PURRTRAN provides the following commands within its REPL en
 
 - `:feed` - provides Hex with food and water so he doesn't starve to death, so he trusts you more.
 - `:play` - provides Hex love so he trusts you more
-- `:discipline` - punishes Hex which makes him trust you less, but he will behave [^3]
+- `:discipline` - punishes Hex which makes him trust you less, but he will behave [^4]
 - `:clean` - clean up after Hex's messes so he trusts you more.
 
 PURRTRAN The Language
@@ -142,7 +144,7 @@ zzz
   ⊂-...__.'　
 ```
 
-Catgentic mode keeps working even when you are not; if you leave your laptop open and unattended, Hex will make similar improvements to your code while you are away, as long as your laptop is warm enough [^4].
+Catgentic mode keeps working even when you are not; if you leave your laptop open and unattended, Hex will make similar improvements to your code while you are away, as long as your laptop is warm enough [^5].
 
 ```purrtran 
 program factorial
@@ -171,7 +173,7 @@ end program
 
 Here, Hex has left you a mouse `ᘛ⁐̤ᐷ` where it looks like you are attempting to divide by zero. The linter has detected this potential error and is warning you about it.
 
-In the following example, Hex leaves you a dead baby bunny rabbit because you have unused variables in your code [^5]:
+In the following example, Hex leaves you a dead baby bunny rabbit because you have unused variables in your code [^6]:
 
 ```purrtran
 program unused_variable_example
@@ -286,10 +288,12 @@ This language is dedicated to my cats Twylah and Giselle, none of this would hav
 
 [^1]: Only true for small values of "always".
 
-[^2]: You don't want to find out what happens when Hex is displeased with you. See the link about 3 Mile Island above for a cationary tale.
+[^2]: Here, "actively used" is measured by how many people have cloned our repository. We don't actually know if anyone is using it, but we assume at least some people are.
 
-[^3]: Punishing Hex only causes him to behave when you are looking. When you are gone, Hex will do as he pleases, including causing more messes. Currently there is no effective way to control Hex's behaviors reliably. Doing so is an ongoing area of research.
+[^3]: You don't want to find out what happens when Hex is displeased with you. See the link about 3 Mile Island above for a cationary tale.
 
-[^4]: PURRTRAN currently does not have functionality to heat up your laptop, so you if you want reliable catgentic improvements while you are away, you might consider running a Bitcoin miner in the background to make your laptop toasterrific.
+[^4]: Punishing Hex only causes him to behave when you are looking. When you are gone, Hex will do as he pleases, including causing more messes. Currently there is no effective way to control Hex's behaviors reliably. Doing so is an ongoing area of research.
 
-[^5]: The rabbit would still be alive if you were a better programmer.
+[^5]: PURRTRAN currently does not have functionality to heat up your laptop, so you if you want reliable catgentic improvements while you are away, you might consider running a Bitcoin miner in the background to make your laptop toasterrific.
+
+[^6]: The rabbit would still be alive if you were a better programmer.
