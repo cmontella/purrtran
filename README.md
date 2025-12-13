@@ -63,7 +63,6 @@ Here's a look at PURRTRAN source code:
 program sum_numbers
   int n, sum = 0
 
-  print("Hello! I'm your PURRTRAN cat assistant 🐱")
   print("Enter a number:")
   read(n)
 
