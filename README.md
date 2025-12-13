@@ -260,7 +260,7 @@ Although PURRTRAN and Hex represent the latest in programming language and Artif
 
 - Hex only works 4 hours a day. This limitation is due primarily to the fact that Hex is incredible lazy and will often nap for long periods of time. During these naps, Hex is not available to assist you with your programming tasks. Realistically, Hex is only available between 5-8 AM and 5-11 PM local time.
 
-- Given that Hex is a true Artificial Catelligence, programmers still must be chosen by Hex. He will only help you with PURRTRAN code if he likes you on a personal level. If you fail the vibecheck, Hex will refuse to help you at all and may even sabotage your codebase.
+- Given that Hex is a true Artificial Catelligence, programmers still must be chosen by Hex; he will only help you with PURRTRAN code if he likes you on a personal level. If you fail the vibecheck, Hex will refuse to help you at all and may even sabotage your codebase.
 
 - There is no way to observe Hex's internal state directly. You must infer how he is feeling based on his behavior and the lints he provides. This makes it difficult to diagnose issues with Hex's performance or behavior.
 
