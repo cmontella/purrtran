@@ -229,16 +229,6 @@ Platform Limitations
 
 Although PURRTRAN and Hex represent the latest in programming language and Artificial Catelligence technology, there are still some limitations to be aware of:
 
-- Hex only works 4 hours a day. This limitation is due primarily to the fact that Hex is incredible lazy and will often nap for long periods of time. During these naps, Hex is not available to assist you with your programming tasks. Realistically, Hex is only available between 5-8 AM and 5-11 PM local time.
-
-- Sometimes Hex will disappear for long periods of time, perhaps a week or more. He might return later. Perhaps the last time you saw him was the last time you'll ever see him. Who can say for sure?
-
-- Hex does not play well with other AC systems offered by competing programming languages. If you attempt to run multiple AC systems on the same machine, Hex may become violently displeased and refuse to help you with your programming tasks.
-
-- Currently there is no way to make sure Hex stays on task. We thought discipline would work, but doing so causes him to disappear and hide, not to listen. There's currently no way to make Hex behave reliably on command.
-
-- Given that Hex is a true Artificial Catelligence, programmers still must be chosen by Hex. He will only help you with PURRTRAN code if he likes you on a personal level. If you fail the vibecheck, Hex will refuse to help you at all and may even sabotage your codebase.
-
 - Feeding Hex too much will cause him to gain excessive weight. When in this state, Hex will actually cause your code to run slower, as he is too lazy to help you optimize it. To get Hex back into a productive state, stop overfeeding him -- chonky cats are sad cats.
 
 ```
@@ -251,9 +241,30 @@ Although PURRTRAN and Hex represent the latest in programming language and Artif
 (__(__)__(__)__)
 ```
 
+- Sometimes Hex will disappear for long periods of time, perhaps a week or more. He might return later. Perhaps the last time you saw him was the last time you'll ever see him. Who can say for sure?
+
+- Hex does not play well with other AC systems offered by competing programming languages. If you attempt to run multiple AC systems on the same machine, Hex may become violently displeased and refuse to help you with your programming tasks.
+
+- Currently there is no way to make sure Hex stays on task. We thought discipline would work, but doing so causes him to disappear and hide, not to listen. There's currently no way to make Hex behave reliably on command.
+
+- Given that Hex is a true Artificial Catelligence, programmers still must be chosen by Hex. He will only help you with PURRTRAN code if he likes you on a personal level. If you fail the vibecheck, Hex will refuse to help you at all and may even sabotage your codebase.
+
 - There is no way to observe Hex's internal state directly. You must infer how he is feeling based on his behavior and the lints he provides. This makes it difficult to diagnose issues with Hex's performance or behavior.
 
 - Hex often times bring attention to ghosts and spirits that are seemingly not actually there. But Hex is not making things up; he is a pandimensional being, and he has vision into other realms that humans cannot perceive. Sometimes these visions cause Hex to invent APIs and other features for PURRTRAN that have not been invented yet in this dimension. This doesn't mean Hex is wrong, just that he's writing code for an orthogonal plane of existence.
+
+```
+         __..--''``---....___   _..._    __
+     _.-'    .-/";  `        ``<._  ``./ _ `.
+ _.-' _..--.'(    \                    `( ) )
+(_..-'    (< (     ;_..__               ; `'
+           `-._,_)'      ``--...____..-'
+
+```
+
+- Hex only works 4 hours a day. This limitation is due primarily to the fact that Hex is incredible lazy and will often nap for long periods of time. During these naps, Hex is not available to assist you with your programming tasks. Realistically, Hex is only available between 5-8 AM and 5-11 PM local time.
+
+
 
 Credits
 -------------------------------------------------------------------------------
