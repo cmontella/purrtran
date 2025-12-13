@@ -18,7 +18,7 @@ Meet **Hexadecimal Purrington**, Hex for short. Hex is a small black cat who liv
 (_\_|_/_)
 ```
 
-Descending from a long line of [Tomagatchis](https://en.wikipedia.org/wiki/Tamagotchi) and [Petz](https://classicreload.com/win3x-catz.html), Hex leverages the latest in CatGPT technology to deliever cutting-edge Artificial Catelligence (AC). Hex's technology draws power directly from the [most famous](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) nuclear powerplant in all of Pennsylvania, making him the world's first atomic cat.
+Descending from a long line of [Tamagatchis](https://en.wikipedia.org/wiki/Tamagotchi) and [Petz](https://classicreload.com/win3x-catz.html), Hex leverages the latest in CatGPT technology to deliever cutting-edge Artificial Catelligence (AC). Hex's technology draws power directly from the [most famous](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) nuclear powerplant in all of Pennsylvania, making him the world's first atomic cat.
 
 Hex is your AC coding assistant, always [^1] at the ready to enhance your coding experience and optimize your flow, taking your programming abilities to the 10x level. Hex can learn your coding style, predict your needs, and even write code for you when you are not looking. This makes Hex the ultimate coding companion for any PURRTRAN programmer.
 
