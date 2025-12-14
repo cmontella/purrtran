@@ -51,7 +51,7 @@ To meet Hex's needs, PURRTRAN provides the following commands within its REPL en
 PURRTRAN The Language
 -------------------------------------------------------------------------------
 
-Now that you've met Hex, let's take a look at the actual PURRTRAN langauge and see how Hex can help us write programs. 
+Now that you've met Hex, let's take a look at the actual PURRTRAN language and see how Hex can help us write programs. 
 
 ### A First Look at PURRTRAN:
 
